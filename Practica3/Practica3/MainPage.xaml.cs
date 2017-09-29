@@ -75,7 +75,7 @@ namespace Practica3
             }
             else
             {
-                Display1.Text = Display1.Text + "0.";
+                Display1.Text = Display1.Text + ".";
             }
         }
 
